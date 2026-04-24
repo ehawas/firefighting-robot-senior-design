@@ -26,7 +26,7 @@ This project focused on the design and fabrication of a heavy duty, remote-contr
 
 ## 📺 Project Demo
 [Click here to watch the Firefighting Robot in action](media/FFR_Demo.mp4)
-[Click here for Obstacle Negotiation]
+[Click here for Obstacle Negotiation](media/FFR_ObstacleOverride.mp4)
 
 ## 🔒 Note on Content
 The full technical report and source code are kept private to respect the intellectual property of the project group and the American University in Dubai. Documentation and video demonstrations are provided here for portfolio purposes to showcase my individual contributions to the mechanical and systems design.
